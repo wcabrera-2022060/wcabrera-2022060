@@ -32,30 +32,40 @@
 - **Markup and Styling**:
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 - **Version Control and CI/CD**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
 
 - **Linters and Coding Styles**:
   ![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
   ![StandardJS](https://img.shields.io/badge/Standard-000000?style=flat&logo=javascript&logoColor=white)
   ![Airbnb](https://img.shields.io/badge/Airbnb-FF5A5F?style=flat&logo=airbnb&logoColor=white)
+  ![EditorConfig](https://img.shields.io/badge/EditorConfig-E0EFEF?style=flat&logo=editorconfig&logoColor=000000)
+  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 - **Development Tools**:
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
   ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-
+  ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat&logo=git&logoColor=white)
+  ![Warp](https://img.shields.io/badge/Warp-6A67CE?style=flat&logo=warp&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 - **Other Tools**:
   ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+  ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat&logo=react&logoColor=white)
+  ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
+  ![SWC](https://img.shields.io/badge/SWC-000000?style=flat&logo=swc&logoColor=white)
 
 ## GitHub Stats
 
