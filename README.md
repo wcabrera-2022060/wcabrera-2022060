@@ -63,7 +63,7 @@
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wcabrera-2022060&show_icons=true&theme=github_dark&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" style="height: 140px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcabrera-2022060&theme=github_dark&show_icons=true&hide_border=false&layout=compact&hide_border=false" alt="GitHub Stats" style=" height: 140px;" />
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wcabrera-2022060&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de wcabrera-2022060" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wcabrera-2022060&layout=compact&langs_count=7&theme=midnight-purple" alt="Lenguajes más usados por wcabrera-2022060" />
 </div>
